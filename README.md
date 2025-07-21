@@ -1,0 +1,1 @@
+# Salary-trend-analysis-in-Santa-Fe-Province-A-Data-Science-approach-to-labor-market-dynamics
